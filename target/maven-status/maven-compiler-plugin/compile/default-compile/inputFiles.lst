@@ -1,0 +1,16 @@
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\controller\DepartmentController.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\repository\DepartmentRepository.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\request\CreateUpdateEmployeeRequest.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\dto\EmployeeDto.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\service\EmployeeService.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\mapper\EmployeeMapper.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\EnocaApplication.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\entity\BaseEntity.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\entity\Employee.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\controller\EmployeeController.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\repository\EmployeeRepository.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\dto\DepartmentDto.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\mapper\DepartmentMapper.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\entity\Department.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\service\DepartmentService.java
+C:\JavaKamp\Enoca\src\main\java\com\example\enoca\model\request\CreateUpdateDepartmentRequest.java
